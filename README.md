@@ -7,7 +7,7 @@
 <body>
     <div class="container">
         <h1>Cadastro de Clientes</h1>
-        <p>Este repositório contém um sistema simples de Cadastro de Clientes com funcionalidades de CRUD (criação, leitura, atualização e exclusão). O sistema se conecta a um banco de dados para armazenar e gerenciar os dados dos clientes.</p>
+        <p>Este projeto contém um sistema simples de Cadastro de Clientes com funcionalidades de CRUD (criação, leitura, atualização e exclusão). O sistema utiliza o MySQL Workbench para modelagem do banco de dados e se conecta a um banco de dados MySQL para armazenar e gerenciar os dados dos clientes.</p>
         <h2>Pré-visualização</h2>
         <img src="https://cdn.discordapp.com/attachments/1253118671291941026/1253145048925732975/Captura_de_tela_2024-06-19_213023.png?ex=6674c9c5&is=66737845&hm=a1ad640221d690e4fcd8a4c3f38b2e6adbd4959aacd721cbcb5e96373f9eddad&" alt="Formulário de Cadastro de Clientes">
         <h2>Configuração</h2>
