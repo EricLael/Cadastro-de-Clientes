@@ -9,7 +9,7 @@
         <h1>Cadastro de Clientes</h1>
         <p>Este projeto contém um sistema simples de Cadastro de Clientes com funcionalidades de CRUD (criação, leitura, atualização e exclusão). O sistema utiliza o MySQL Workbench para modelagem do banco de dados e se conecta a um banco de dados MySQL para armazenar e gerenciar os dados dos clientes.</p>
         <h2>Pré-visualização</h2>
-        <img src="https://cdn.discordapp.com/attachments/1253118671291941026/1253145048925732975/Captura_de_tela_2024-06-19_213023.png?ex=6674c9c5&is=66737845&hm=a1ad640221d690e4fcd8a4c3f38b2e6adbd4959aacd721cbcb5e96373f9eddad&" alt="Formulário de Cadastro de Clientes">
+        <img src="https://cdn.discordapp.com/attachments/1273436055525396571/1273436127805833247/Captura_de_tela_2024-08-14_211909.png?ex=66be9b50&is=66bd49d0&hm=8366e45c983f8e43cb44c19e436affda64fc41574a786062700da6507903f407&" alt="Formulário de Cadastro de Clientes">
         <h2>Configuração</h2>
         <p>Para que o sistema funcione corretamente, siga os passos abaixo:</p>
         <ol>
