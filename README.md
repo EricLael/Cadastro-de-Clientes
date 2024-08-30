@@ -11,11 +11,13 @@
         <h2>Configuração</h2>
         <p>Para que o sistema funcione corretamente, siga os passos abaixo:</p>
         <ol>
-            <li>Configure seu banco de dados, usuário e senha na classe <code>Conexao</code> dentro da pasta <code>conexao</code>.</li>
-            <li>Crie o banco de dados e a tabela necessária utilizando o código SQL abaixo:</li>
+            <li>Este projeto utiliza o IntelliJ IDEA como ambiente de desenvolvimento integrado (IDE). Certifique-se de que o IntelliJ IDEA esteja instalado em sua máquina.</li>
+            <li>O projeto também utiliza o Maven como ferramenta de automação de build. Verifique se o Maven está configurado corretamente no IntelliJ IDEA.</li>
+            <li>Utilize o MySQL Workbench para configurar seu banco de dados. Configure o banco de dados, usuário e senha na classe <code>Conexao</code> dentro da pasta <code>conexao</code>.</li>
+            <li>Crie o banco de dados e a tabela necessária utilizando o código SQL abaixo no MySQL Workbench:</li>
         </ol>
         <pre><code>CREATE DATABASE CLIENTES_DB;
-
+            
 USE CLIENTES_DB;
 
 CREATE TABLE CLIENTES (
@@ -26,7 +28,7 @@ CREATE TABLE CLIENTES (
     LIMITE_CREDITO NUMERIC(10, 2) NOT NULL
 );</code></pre>
         <h2>Execução</h2>
-        <p>Para iniciar o formulário de cadastro de clientes, execute a classe <code>ClienteFormulario</code> dentro da pasta <code>formularios</code>.</p>
+        <p>Para iniciar o formulário de cadastro de clientes, abra o projeto no IntelliJ IDEA e execute a classe <code>ClienteFormulario</code> dentro da pasta <code>formularios</code>.</p>
         <h2>Licença</h2>
         <p>Este projeto está licenciado sob a Licença MIT.</p>
     </div>
